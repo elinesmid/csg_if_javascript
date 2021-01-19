@@ -6,6 +6,7 @@ function preload() {
   piano = loadImage("images/piano.jpg");
 }
 
+
 function setup() {
   canvas = createCanvas(850,300);
   canvas.parent('processing');
